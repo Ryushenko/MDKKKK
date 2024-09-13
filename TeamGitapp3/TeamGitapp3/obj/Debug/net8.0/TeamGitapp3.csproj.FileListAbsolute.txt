@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\bin\Debug\net8.0\TeamGitapp3.exe
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\bin\Debug\net8.0\TeamGitapp3.deps.json
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\bin\Debug\net8.0\TeamGitapp3.runtimeconfig.json
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\bin\Debug\net8.0\TeamGitapp3.dll
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\bin\Debug\net8.0\TeamGitapp3.pdb
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\obj\Debug\net8.0\TeamGitapp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\obj\Debug\net8.0\TeamGitapp3.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\obj\Debug\net8.0\TeamGitapp3.AssemblyInfo.cs
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\obj\Debug\net8.0\TeamGitapp3.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\obj\Debug\net8.0\TeamGitapp3.dll
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\obj\Debug\net8.0\refint\TeamGitapp3.dll
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\obj\Debug\net8.0\TeamGitapp3.pdb
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\obj\Debug\net8.0\TeamGitapp3.genruntimeconfig.cache
+C:\Users\Student\source\repos\TeamGitapp3\TeamGitapp3\obj\Debug\net8.0\ref\TeamGitapp3.dll
